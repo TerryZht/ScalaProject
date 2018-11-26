@@ -1,3 +1,1 @@
 # Scala
-# SparkSQL
-- mooc project
